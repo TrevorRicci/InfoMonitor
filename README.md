@@ -1,6 +1,6 @@
 # System Monitor 
 
-Petit script Python pour afficher en temps réel l'utilisation CPU, RAM et disque, avec une interface terminal colorée grâce à la bibliothèque `rich`.
+Script Python pour afficher en temps réel l'utilisation CPU, RAM et disque, avec une interface terminal colorée grâce à la bibliothèque `rich`.
 
 ## Amélioration 
 
